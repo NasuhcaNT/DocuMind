@@ -1,7 +1,8 @@
-streamlit
 langchain
 langchain-community
 langchain-huggingface
 sentence-transformers
 chromadb
-pypdf
+datasets
+transformers
+torch
